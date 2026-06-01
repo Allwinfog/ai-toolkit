@@ -13,6 +13,24 @@ A complete SaaS platform for AI-powered content generation — text, images, and
 - **Admin Panel** — User management, plan config, template builder, analytics
 - **Multi-tenant Ready** — Each user has isolated usage, history, and billing
 
+## Screenshots
+
+| Login | Dashboard |
+|-------|-----------|
+| ![Login](screenshots/01-login.png) | ![Dashboard](screenshots/04-dashboard.png) |
+
+| Text Generator | Templates |
+|----------------|-----------|
+| ![Text Generator](screenshots/05-text-generator.png) | ![Templates](screenshots/08-templates.png) |
+
+| Image Generator | Code Generator |
+|-----------------|----------------|
+| ![Image Generator](screenshots/06-image-generator.png) | ![Code Generator](screenshots/07-code-generator.png) |
+
+| Admin Dashboard | Admin Users |
+|-----------------|-------------|
+| ![Admin](screenshots/11-admin-dashboard.png) | ![Admin Users](screenshots/12-admin-users.png) |
+
 ## Tech Stack
 
 - **Backend:** Laravel 11, PHP 8.2+, MySQL 8, Redis
